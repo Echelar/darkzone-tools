@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stage Parser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\sloss\\Documents\\DZ - monster stages.txt\""
+    }
+  }
+}
